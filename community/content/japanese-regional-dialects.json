@@ -356,5 +356,12 @@
     "english": "very",
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 3)"
+  },
+  {
+    "dialect": "おおきに",
+    "standardJapanese": "ありがとう",
+    "english": "thank you",
+    "region": "Kansai",
+    "note": "Traditional gratitude expression. (Set 4)"
   }
 ]
